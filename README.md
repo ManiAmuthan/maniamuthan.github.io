@@ -1,12 +1,20 @@
 ## Web Architect & Developer
 
-You can use the [editor on GitHub](https://github.com/ManiAmuthan/maniamuthan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 # About me
+- Hands on Web application architect & developer with over 15+ years of experience in diffrent domains.
+- Expert in designing scalable, high availability, High Performance application and fault tolerant systems.
+- Proven track record in designing and implementing large, complex web applications with a responsive
+design approach.
+- Excellent reputation for resolving problems and improving customer satisfaction.
+- Mentored and handled a team of more than 10+ developers and delivered projects in an agile fashion.
+- Worked hand in hand across teams to deliver projects and also have taken many sessions across
+domains.
+- Innovator with deep knowledge in latest industry trends and advancements. Strengths in JavaScript,
+JSFrameworks, NodeJS, WebPack, CI/CD Pipelines..etc
 
 # Challenges
-- Find pairs from given array [Link](https://stackblitz.com/edit/js-9tj6y6)
+- Find pairs from given array <a href="https://stackblitz.com/edit/js-9tj6y6" target="_blank">Click here!</a>
+- [Link](https://stackblitz.com/edit/js-9tj6y6)
 
 # Code
 
