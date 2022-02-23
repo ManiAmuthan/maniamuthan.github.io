@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # About me
 
 # Challenges
+- Find pairs from given array [Link](https://stackblitz.com/edit/js-9tj6y6)
 
 # Code
 
