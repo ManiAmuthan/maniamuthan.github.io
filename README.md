@@ -14,7 +14,8 @@ JSFrameworks, NodeJS, WebPack, CI/CD Pipelines..etc
 
 # Challenges
 - Find pairs from given array <a href="https://stackblitz.com/edit/js-9tj6y6" target="_blank">Click here!</a>
-- [Link](https://stackblitz.com/edit/js-9tj6y6)
+- Drawing books, find mininum number of pages to turn from given book [link](https://stackblitz.com/edit/js-h85zha){:target="_blank"}
+- 
 
 # Code
 
