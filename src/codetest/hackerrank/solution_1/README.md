@@ -5,8 +5,8 @@ Line 1 - budget, length of keyboard, length of drives<br />
 Line 2 - keyboard cost array<br />
 Line 3 - Drives cost array
 
-find the biggest combination a person can buy with the given budget(budget should not exceed)
-Sample Input
+Find the biggest combination a person can buy with the given budget(budget should not exceed)__
+Sample Input__
 10 2 3<br />
 3 1<br />
 5 2 8
@@ -14,7 +14,7 @@ Sample Input
 expected Output 9
 <br />
 <br />
-Sample Input
+Sample Input__
 5 1 1<br />
 4<br />
 5
